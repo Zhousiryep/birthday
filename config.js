@@ -18,9 +18,11 @@ var config = {
         "我的小仙女",
         "长肉肉了怎么办？",
         "捂住嘴巴",
-        "不，你没有",
-        "然后抱住",
+        "“不，你没有”",
+        "抱住",
         "mua~~",
+        "生日快乐",
+        "爱你哦",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -39,7 +41,7 @@ var config = {
     desc: {
         turn_on: "戳我",
         play: "来点音乐",
-        bannar_coming: "气球",
+        bannar_coming: "暗号？",
         balloons_flying: "好像还少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
